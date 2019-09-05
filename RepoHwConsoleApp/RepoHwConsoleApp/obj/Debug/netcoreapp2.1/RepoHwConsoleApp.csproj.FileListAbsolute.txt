@@ -1,0 +1,11 @@
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\bin\Debug\netcoreapp2.1\RepoHwConsoleApp.deps.json
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\bin\Debug\netcoreapp2.1\RepoHwConsoleApp.runtimeconfig.json
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\bin\Debug\netcoreapp2.1\RepoHwConsoleApp.runtimeconfig.dev.json
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\bin\Debug\netcoreapp2.1\RepoHwConsoleApp.dll
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\bin\Debug\netcoreapp2.1\RepoHwConsoleApp.pdb
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\obj\Debug\netcoreapp2.1\RepoHwConsoleApp.csprojAssemblyReference.cache
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\obj\Debug\netcoreapp2.1\RepoHwConsoleApp.csproj.CoreCompileInputs.cache
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\obj\Debug\netcoreapp2.1\RepoHwConsoleApp.AssemblyInfoInputs.cache
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\obj\Debug\netcoreapp2.1\RepoHwConsoleApp.AssemblyInfo.cs
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\obj\Debug\netcoreapp2.1\RepoHwConsoleApp.dll
+C:\CodeScrCtrl\BootcampRepoHw\RepoHwConsoleApp\RepoHwConsoleApp\obj\Debug\netcoreapp2.1\RepoHwConsoleApp.pdb
